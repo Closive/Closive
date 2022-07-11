@@ -2,24 +2,31 @@ hello,
 
 I’m @Closive
 
-- 👀 I’m interested in making games using RPGMaker MV and using Javascript Language.
+- 👀 I’m interested in making games using RPGMaker MV software and using Javascript Language.
 
-- 🌱 I’m currently learning on few performance tools for the Javascript and tweaking specific
-     codes that may be useful 
+- 🌱 Currently learning on few performance tools for the Javascript and tweaking specific
+     codes that may be useful.
 
--(^ ^*)/ also trading TF2 items,steam trading cards for either exchange or buying one^^
+-(^ ^*)/ Also trading TF2 items,steam trading cards for either exchange or buying one^.^
 
-- 📫You contact me via discord close#6910 for trades or my email
+- ⏲️ Hour idler on Steam and does play games(likes Indie/RPGs genre a lot~)
+
+- 📫You contact me via Discord close#6910 for trades or my email
 izacgonda911@gmail.com 
-
-Also thanks,@Cult Of Martians for the source~
    
+     Also thanks,@Cult Of Martians for the source~
   
-<!---
-Closive/Strawman Close is an Steam/RPGMaker MV user and uses
+-🍦🤧If it's too long to read,here is an quick summary:
+
+<--Closive/Strawman Close is an Steam and RPGMaker MV user and uses
 Javascript to do size limiter(CLI),code editing,and as well finding useful public 
-sourcecodes for use.
---->
+sourcecodes for use.-->
+
+More info about Size Limit below:
+  
+<!---Closive/Strawman Close is an Steam/RPGMaker MV user and uses
+Javascript to do size limiter(CLI),code editing,and as well finding useful public 
+sourcecodes for use.--->
 # Size Limit [![Cult Of Martians][cult-img]][cult]
 
 <img src="https://ai.github.io/size-limit/logo.svg" align="right"
