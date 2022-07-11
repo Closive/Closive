@@ -11,7 +11,7 @@ I’m @Closive
 
 - ⏲️ Hour idler on Steam and does play games(likes Indie/RPGs genre a lot~)
 
-- 📫You contact me via Discord close#6910 for trades or my email
+- 📫You can contact me via Discord close#6910 for trades or my email
 izacgonda911@gmail.com 
    
      Also thanks,@Cult Of Martians for the source~
